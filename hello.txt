@@ -1,2 +1,3 @@
 hello this is first commit file
 Second line is for second commit
+third line is for git bash chanegs configurations:
