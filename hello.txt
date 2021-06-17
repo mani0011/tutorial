@@ -3,3 +3,5 @@ Second line is for second commit
 third line is for git bash chanegs configurations:
 
 So this is to test git workflow - part1
+
+After commiting the messsage this content is written
